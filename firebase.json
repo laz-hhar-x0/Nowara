@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lazhar-app",
+  "private_key_id": "97e83e45adef606d64d0687e31f931bfce745bf1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCygGx76AKiFgM2\nX4JK+peCES+Hux3YWUeiUc3Dr8bN3q/0L0TzZ5Qk/smrXroLU6Ulf7NvFwi9+i/T\nmHxSFstzQBrlbUG3q6PsZcWSgBUA2ZB8pDP+2zMeTi39bofOFgiwkBu/Pr9PxKey\ne6u93E8RvYCDwMlSL4Oc6uEI45gdqNMBPn3Rp2oSKeItNF/0ASPU06JHJn7vKyE/\np3pb9RRcDS33C+MhVtQIFyPdz6DP/djBh1mHUBaFfIYYdcCMERdRaHt6QqSjwuBC\nfOI+1ihvO51+DU6OnIg66b9TxzRqdiDYA5uhHPyN/Y1sizWxcuCf0VRdchJEt57l\ne/IHEj91AgMBAAECggEADiIl1M67Qfmztz8AikQascaqEy7BOh4254w0xQaFMMuY\ndiFgWH8Y8gVG0wiSUFocX00j7YsZmwSKURBHtwPih9rUIQUnA65gXD6iUjX4KRkm\nO/7lYLZwRE6aN3DkabCBb3d4QaAr1i/4O4/YD+r3y2wMLFfGqPj69wullfECsZsI\nNUFAkGZBkBMx7b2Yz+4orlzUlH2SerTeAHwxD+GjlhS0gDFGq4nUCi7dT87ewRxa\nhRbEftNd8XwJV0qQXk+h5jl27Y3IwJexCr3LahsXgvWqlW1m/HRJh7QVJNRY4Djt\nQVlcyC3kPY87A49izhR+1nndupJgsRH3zqIKot6ocQKBgQD8FBH85Z5k5rDXfIZt\nwvPW2iZpvgTDsuU5ZwPK018jV7sD6wqDs/TBThdogfSdbX91w4DgX7eoaYUQKA6s\nDOBkfxMbFsJRQ5zX5PPs0pyaR8oyXSX49Wy2RbOxPH2Tl2kvdOST/a68JbzKKi2/\nhaZek9JZ758EBvHHiUGsHRdjEQKBgQC1R1N6ewLLKTUIwLpzICTfdtFWHtVa55Tw\n+e0pqUScfgCHQLOK03OqSx3Uhvoi0NZC2pKWO4/j5fA1fPcJu07lryTvXOA6l1X9\nyVWgeEZAyoq0TI+ll8aHc306NE4LvJnQagSiNHcOwCKj94iwcu6wO8IOgcyx6Avp\nCI5K6uYOJQKBgQDcWY7/ypiTCzU6qJe6CtirzzYU6Q2xJAhMDUi7W9mmQ2IvIp6m\nUgB5mZHMwQzbMIRipOtbN1CL3vF6Fgn9S6Q7NPm2jEaAUuIftvui4NgT5P1S2SoA\nXkkRbAyPuZjsE0bXPQ8ybmb4AOTus8AZ0vKDaiROibAvDQL8sXa+xQ9UgQKBgQCz\nAfgBHq+nhs2EEy0KulcvA9m7vT7aQYzmWSZE2Y2TKynCZbXmBOBW7U5Lq+4dqzOp\nWMUf7TktxsXpS7l2tqw2Szmh1Ijn0sFrlwEjMSHOoTNOz7uZvcKhxv2GGFhpZphN\nIiPpOP3IZxrN54XnF9dz187NHIfRtl7sgzJf8I20sQKBgBUBlz/Ae3t40xuvEKPd\nhSlzxx2tpcWgEenfTOwKCIRHgscthjPJKYfVZoNoT1D7FN1nfwPFjHK4ZdXMAgNt\nQNF/E0nvffYtlkxHs2bjSAaX1RiYbVl52oH/4ZZqkrihH8Fz676Oo37gknc5nuD4\nM2Qjfmfoy3sR+JxJxKqpXRFo\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@lazhar-app.iam.gserviceaccount.com",
+  "client_id": "115881527601088433659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40lazhar-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
