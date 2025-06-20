@@ -5,16 +5,18 @@
     
     
     // إعداد Firebase
-      const firebaseConfig = {
-          apiKey: "AIzaSyAGry9R0aDWFYEawM4VsQOZO-jCS9Dk2wM",
-          authDomain: "lazhar-app.firebaseapp.com",
-          databaseURL: "https://lazhar-app-default-rtdb.firebaseio.com",
-          projectId: "lazhar-app",
-          storageBucket: "lazhar-app.appspot.com",
-          messagingSenderId: "18352349338",
-          appId: "1:18352349338:web:673d8a7e2eebe3db26bf23"
-      };
+   
 
+     const firebaseConfig = {
+          apiKey: "AIzaSyDIW0KnO1U98iOiMcVJ3lW2yAvzuNQJvVw",
+          authDomain: "sokiaa-7129a.firebaseapp.com",
+          databaseURL: "https://sokiaa-7129a-default-rtdb.firebaseio.com",
+          projectId: "sokiaa-7129a",
+          storageBucket: "sokiaa-7129a.firebasestorage.app",
+          messagingSenderId: "237882065921",
+          appId: "1:237882065921:web:f27fae5fa3ed6969832c00",
+          measurementId: "G-WGTM3Z2KWV"
+        };
       // تهيئة Firebase
       firebase.initializeApp(firebaseConfig);
       const db = firebase.database();
